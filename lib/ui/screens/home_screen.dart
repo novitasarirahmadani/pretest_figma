@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pretest_figma/ui/widgets/widgets.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
